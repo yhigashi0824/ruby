@@ -1,3 +1,6 @@
-puts '"Branding Engineer"'
+p "Branding Engineer"
 puts '"Hello"'
-puts '"HR Tech"'
+print '"HR Tech"'
+
+puts "\"Hello\""
+puts %Q["Hello"]
